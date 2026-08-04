@@ -1,0 +1,14 @@
+## First Off, I've done a lot, here are some highlights
+- Went from 16x16 to 32x32
+- Changed the main character
+- Created NPC
+- Created New tileset for grass and dungeon
+- Created enemies
+	- Slime
+	- Fire blob
+- Created new plant growth cycles
+- Level Transition
+- Main menu
+- Scene Transition
+- New version of save files
+- Inventory

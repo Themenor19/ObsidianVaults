@@ -1,0 +1,2 @@
+- You are a mage that isn't very powerful by yourself, but the reason you can get so many good spells is because you provide initial mana to the ground and the plant, and using the sun's mana, you're able to grow more powerful spells. 
+- When you're going in the dungeons, you might see other wizards who tried to mimic you to create even more powerful spells, but failed because of all of the chaos energy in the dungeon.

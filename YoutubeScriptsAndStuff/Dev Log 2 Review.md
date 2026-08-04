@@ -1,0 +1,7 @@
+- Added grass variations
+- Saving players position
+- scaled from 16x16 to 32x32
+- created new character
+- came up with game idea
+- added spells and spell flowers
+- made interactions

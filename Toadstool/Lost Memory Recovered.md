@@ -1,0 +1,1 @@
+I recovered a memory from the echo orb that is about how I got lost in the fey wilds. 
