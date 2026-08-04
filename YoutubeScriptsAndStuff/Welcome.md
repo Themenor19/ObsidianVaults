@@ -7,7 +7,6 @@ This will be where all of the scripts will be linked
  - [x] Add saving for player inventory
  - [ ] Create Detection Manager for enemies
  - [ ] Create sub viewport containers for game view
- - [ ] 
 
 # Game Overview
 - Check out [[Gameplay loop | this ]] for the main gameplay loop
