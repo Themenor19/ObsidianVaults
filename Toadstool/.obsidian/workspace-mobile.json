@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "732de3174824501d",
+    "id": "7517d18a1c1b3db9",
     "type": "split",
     "children": [
       {
-        "id": "a29846da4e47281e",
+        "id": "ddaa9ba880367666",
         "type": "tabs",
         "children": [
           {
-            "id": "34f26b09cb431a85",
+            "id": "be83748bad4fc017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Log 3 (Actually 2 since I didn't post it 2).md",
+                "file": "Hytale Coordinates/First World coordinates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dev Log 3 (Actually 2 since I didn't post it 2)"
+              "title": "First World coordinates"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1ec483a460d0f19a",
+    "id": "0f9d909871316d83",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c6170fb36e6fc57f",
+        "id": "4fac341173eb7082",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "07ab04d5076e3d52",
+        "id": "9afc81a06b64c46e",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "27cc59ef3348b034",
+        "id": "956a76e36f8cb21d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,21 +78,7 @@
         }
       },
       {
-        "id": "a4c8f02785e11498",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "All properties"
-        }
-      },
-      {
-        "id": "de347c9cdfcdc83f",
+        "id": "ca3fba5b42d337f4",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,16 +94,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "a026bb72f3245f85",
+    "id": "b4de6508e1b40c95",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b107ee5812deee76",
+        "id": "80f57d1daf93ef51",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dev Log 3 (Actually 2 since I didn't post it 2).md",
+            "file": "Hytale Coordinates/First World coordinates.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,12 +117,12 @@
         }
       },
       {
-        "id": "2f06378e1ace760f",
+        "id": "523976a28fbc9d0c",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dev Log 3 (Actually 2 since I didn't post it 2).md",
+            "file": "Hytale Coordinates/First World coordinates.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,12 +131,12 @@
         }
       },
       {
-        "id": "2d6fb25d0271d5a5",
+        "id": "fb4c28395b3f3412",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dev Log 3 (Actually 2 since I didn't post it 2).md",
+            "file": "Hytale Coordinates/First World coordinates.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,12 +156,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false
     }
   },
-  "active": "34f26b09cb431a85",
+  "active": "be83748bad4fc017",
   "lastOpenFiles": [
+    "Finance Hours.md",
+    "Lost Memory Recovered.md",
     "Welcome.md"
   ]
 }
