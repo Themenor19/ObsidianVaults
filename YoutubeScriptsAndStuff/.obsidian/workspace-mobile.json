@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay Ideas.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay Ideas"
+              "title": "Welcome"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "34f26b09cb431a85",
   "lastOpenFiles": [
+    "Gameplay Ideas.md",
     "Dev Log 3 Script.md",
     "Welcome.md"
   ]
