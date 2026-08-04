@@ -2,7 +2,4 @@
 # Crafting
 
 #### Spells are made of essences
-As the title suggests. Spells are made out of essences. For example, the fireflower might give 1-4 fire essences, and you need 2 fire essences to make 1 basic fireball. And the more essences you use, the more powerful the spell. For example, a tier II fireball could require 8 essences, and a tier III would require 25 essences or something, And you could maybe get buffs that reduce the amount of essences needed to by 20% or something. You would also have 3 different classes of essences. You'd have the primary essence that would 
-
-
-fire ice wind
+As the title suggests. Spells are made out of essences. For example, the fire flower might give 1-4 fire essences, and you need 2 fire essences to make 1 basic fireball. And the more essences you use, the more powerful the spell. For example, a tier II fireball could require 8 essences, and a tier III would require 25 essences or something, And you could maybe get buffs that reduce the amount of essences needed to by 20% or something. You would also have 2 different classes of essences. You'd have the primary essence that would serve as the main effect (fire essence catches things on fire, ice essence freezes or slows, and poison essence poisons), and then the modifier essence. This would essentially change the behavior of the spell, such as making it quicker, making it split off when cast, making the spell have a chance to explode, etc. 

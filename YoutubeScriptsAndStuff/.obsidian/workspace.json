@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gameplay Ideas.md",
+                "file": "Dev Log 3 Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gameplay Ideas"
+              "title": "Dev Log 3 Script"
             }
           }
         ],
@@ -234,8 +234,8 @@
   },
   "active": "237f30dfe2e66ee7",
   "lastOpenFiles": [
-    "Story Ideas.md",
     "Gameplay Ideas.md",
+    "Story Ideas.md",
     "Untitled",
     "Dev Log 3 Script.md",
     "Dev Log 3 Review.md",
