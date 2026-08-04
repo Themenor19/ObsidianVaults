@@ -1,0 +1,13 @@
+# Ignore temporary workspace states for both devices
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+.obsidian-mobile/workspace.json
+.obsidian-mobile/workspace-mobile.json
+.obsidian-mobile/graph.json
+
+# System specific files
+.trash/
+.DS_Store
+Thumbs.db
