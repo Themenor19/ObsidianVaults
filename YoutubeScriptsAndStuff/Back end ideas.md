@@ -1,0 +1,2 @@
+# global scene 
+Make it so that the global script is actually a scene, and it contains nodes/directories of all the important elements. This would include a UI manager, a level manager, The night cycle manager, and so on. And then the global script would then contain references to all of those, which could then be accessed by anyone that has access to the global script. I would then make global not and autoload/singleton
